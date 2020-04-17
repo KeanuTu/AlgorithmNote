@@ -33,7 +33,7 @@ $$
 
 **常见的时间复杂度量级**
 
-![Big-O Complexity Chart](/images/TimeComplexity.png)
+![Big-O Complexity Chart](../images/TimeComplexity.png)
 
 参考链接：[五分钟学会时间复杂度]( https://www.cxyxiaowu.com/1996.html )
 
@@ -99,9 +99,7 @@ long long Fib(long long N)
 
 参考链接：[斐波那契数的时间复杂度、空间复杂度详解]( https://blog.csdn.net/lxf_style/article/details/80458519?depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1&utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1 )
 
-<div align="center">
-    <img src="/images/Fibnaci.png"/>
-</div>
+![Fibnaci](https://github.com/KeanuTu/AlgorithmNote/blob/master/images/TimeComplexity.png)
 
 ### 空间复杂度
 
